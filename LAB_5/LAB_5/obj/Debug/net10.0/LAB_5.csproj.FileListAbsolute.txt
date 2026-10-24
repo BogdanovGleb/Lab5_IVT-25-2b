@@ -1,0 +1,15 @@
+C:\Users\Bogda\source\repos\LAB_5\LAB_5\bin\Debug\net10.0\LAB_5.exe
+C:\Users\Bogda\source\repos\LAB_5\LAB_5\bin\Debug\net10.0\LAB_5.deps.json
+C:\Users\Bogda\source\repos\LAB_5\LAB_5\bin\Debug\net10.0\LAB_5.runtimeconfig.json
+C:\Users\Bogda\source\repos\LAB_5\LAB_5\bin\Debug\net10.0\LAB_5.dll
+C:\Users\Bogda\source\repos\LAB_5\LAB_5\bin\Debug\net10.0\LAB_5.pdb
+C:\Users\Bogda\source\repos\LAB_5\LAB_5\obj\Debug\net10.0\LAB_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bogda\source\repos\LAB_5\LAB_5\obj\Debug\net10.0\LAB_5.AssemblyInfoInputs.cache
+C:\Users\Bogda\source\repos\LAB_5\LAB_5\obj\Debug\net10.0\LAB_5.AssemblyInfo.cs
+C:\Users\Bogda\source\repos\LAB_5\LAB_5\obj\Debug\net10.0\LAB_5.csproj.CoreCompileInputs.cache
+C:\Users\Bogda\source\repos\LAB_5\LAB_5\obj\Debug\net10.0\LAB_5.dll
+C:\Users\Bogda\source\repos\LAB_5\LAB_5\obj\Debug\net10.0\refint\LAB_5.dll
+C:\Users\Bogda\source\repos\LAB_5\LAB_5\obj\Debug\net10.0\LAB_5.pdb
+C:\Users\Bogda\source\repos\LAB_5\LAB_5\obj\Debug\net10.0\LAB_5.genruntimeconfig.cache
+C:\Users\Bogda\source\repos\LAB_5\LAB_5\obj\Debug\net10.0\ref\LAB_5.dll
+C:\Users\Bogda\source\repos\LAB_5\LAB_5\obj\Debug\net10.0\LAB_5.csproj.Up2Date
